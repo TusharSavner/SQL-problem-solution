@@ -1,5 +1,5 @@
 -- 💡 Problem: Retrieve unique birth years from the patients table and sort them in ascending order.
--- 🟢 Difficulty: Easy.
+--  Difficulty: Medium.
 -- 🔗 Source Link: [https://www.sql-practice.com/]
 
 SELECT DISTINCT YEAR(birth_date)
