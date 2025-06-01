@@ -1,5 +1,4 @@
 -- 💡 Problem: Find patients who do not have any recorded allergies.
--- We need to display their first and last names from the hospital records.
 -- 🟢 Difficulty: Easy
 -- 🔗 Source Link: [https://www.sql-practice.com/]
 
