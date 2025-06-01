@@ -1,5 +1,5 @@
 -- 💡 Problem: Retrieve the first name, last name, and full province name of each patient instead of an abbreviated code.
--- 🟡 Difficulty: Medium.
+-- 🟢 Difficulty: Easy.
 -- 🔗 Source Link: [https://www.sql-practice.com/]
 
 SELECT p.first_name, p.last_name, pr.province_name
