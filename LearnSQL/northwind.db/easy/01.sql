@@ -1,6 +1,6 @@
 -- 💡 Problem: Retrieve category_name and description from the categories table, sorted alphabetically by category_name.
-🟢 Difficulty: Easy.
-🔗 Source Link: [https://www.sql-practice.com/]
+-- 🟢 Difficulty: Easy.
+-- 🔗 Source Link: [https://www.sql-practice.com/]
 
 SELECT category_name, description
 FROM categories
