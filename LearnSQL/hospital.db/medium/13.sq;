@@ -1,0 +1,7 @@
+-- 💡 Problem: Retrieve each patient's full name in a single column, formatting last names in uppercase and first names in lowercase, separated by a comma. Sort the list by first_name in descending order.
+-- 🟡 Difficulty: Medium.
+-- 🔗 Source Link: [https://www.sql-practice.com/]
+
+SELECT CONCAT(UPPER(last_name), ',', LOWER(first_name)) AS full_name
+FROM patients
+ORDER BY first_name DESC; -- 🔎 Formats names correctly and orders by first names in descending order.
