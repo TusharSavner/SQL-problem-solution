@@ -1,4 +1,4 @@
-- 💡 Problem: Update the patients table to replace null values in the allergies column with 'NKA'.
+-- 💡 Problem: Update the patients table to replace null values in the allergies column with 'NKA'.
 -- 🟢 Difficulty: Easy.
 -- 🔗 Source Link: [https://www.sql-practice.com/]
 
