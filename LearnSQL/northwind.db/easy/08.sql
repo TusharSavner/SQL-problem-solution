@@ -1,6 +1,6 @@
 -- 💡 Problem: Retrieve the first_name, last_name, and hire_date of the most recently hired employee.
-🟢 Difficulty: Easy.
-🔗 Source Link: [https://www.sql-practice.com/]
+-- 🟢 Difficulty: Easy.
+-- 🔗 Source Link: [https://www.sql-practice.com/]
   
 SELECT first_name, last_name, hire_date
 FROM employees
