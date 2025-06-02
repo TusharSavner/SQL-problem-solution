@@ -1,6 +1,6 @@
 -- 💡 Problem: Retrieve city, company_name, and contact_name for customers whose city name contains the letter 'L', sorted alphabetically by contact_name.
-🟢 Difficulty: Easy.
-🔗 Source Link: [https://www.sql-practice.com/]
+-- 🟢 Difficulty: Easy.
+-- 🔗 Source Link: [https://www.sql-practice.com/]
   
 SELECT city, company_name, contact_name
 FROM customers
