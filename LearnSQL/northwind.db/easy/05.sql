@@ -1,6 +1,6 @@
 -- 💡 Problem: Retrieve all even-numbered order_id values from the orders table.
-🟢 Difficulty: Easy.
-🔗 Source Link: [https://www.sql-practice.com/]
+-- 🟢 Difficulty: Easy.
+-- 🔗 Source Link: [https://www.sql-practice.com/]
   
 SELECT order_id
 FROM orders
